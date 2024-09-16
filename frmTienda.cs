@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ManejadorT;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,14 +13,21 @@ namespace PresentaciónTienda
 {
     public partial class frmTienda : Form
     {
+        ManejadorRegistros mr;
         public frmTienda()
         {
             InitializeComponent();
+            mr = new ManejadorRegistros();
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            mr.InsertarRegistros(txtNombre.Text, txtDescripcion.Text, double.Parse(txtPrecio.Text));
         }
     }
 }
