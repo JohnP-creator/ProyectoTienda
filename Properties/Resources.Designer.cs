@@ -93,6 +93,16 @@ namespace PresentaciónTienda.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap jdjdj_Mesa_de_trabajo_1 {
+            get {
+                object obj = ResourceManager.GetObject("jdjdj_Mesa de trabajo 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap paquete {
             get {
                 object obj = ResourceManager.GetObject("paquete", resourceCulture);

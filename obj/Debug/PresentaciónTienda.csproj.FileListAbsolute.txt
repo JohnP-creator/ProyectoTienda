@@ -42,3 +42,4 @@ C:\Users\jguti\source\repos\PresentaciónTienda\obj\Debug\PresentaciónTienda.cs
 C:\Users\jguti\source\repos\PresentaciónTienda\obj\Debug\PresentaciónTienda.csproj.CopyComplete
 C:\Users\jguti\source\repos\PresentaciónTienda\obj\Debug\PresentaciónTienda.exe
 C:\Users\jguti\source\repos\PresentaciónTienda\obj\Debug\PresentaciónTienda.pdb
+C:\Users\jguti\source\repos\PresentaciónTienda\obj\Debug\PresentaciónTienda.frmProductos.resources
